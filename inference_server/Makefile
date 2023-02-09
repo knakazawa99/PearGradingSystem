@@ -1,0 +1,2 @@
+run:
+	docker run --gpus=1 --rm --ulimit memlock=-1 --ulimit stack=67108864 -p8000:8000 -p8001:8001 -p8002:8002 -v ${PWD}/models:/models pear_tis:1.2 tritonserver --model-repository=/models --backend-config=python,grpc-timeout-milliseconds=5000

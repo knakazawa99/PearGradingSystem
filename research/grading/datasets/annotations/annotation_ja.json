@@ -1,0 +1,621 @@
+{
+    "shape_types": [
+        {
+            "id": 0,
+            "name": "normal",
+            "japanese": "hutsuu"
+        },
+        {
+            "id": 1,
+            "name": "sinewy",
+            "japanese": "suzika"
+        },
+        {
+            "id": 2,
+            "name": "short",
+            "japanese": "tankeika"
+        },
+        {
+            "id": 3,
+            "name": "thick_neck",
+            "japanese": "kubihuto"
+        },
+        {
+            "id": 10,
+            "name": "unchecked",
+            "japanese": "gaitounashi"
+        }
+    ],
+    "gradings": [
+        {
+            "id": 0,
+            "name": "unchecked",
+            "japanese": "gaitounashi"
+        },
+        {
+            "id": 1,
+            "name": "excelent",
+            "japanese": "akasyuu"
+        },
+        {
+            "id": 2,
+            "name": "brilliant",
+            "japanese": "aosyuu"
+        },
+        {
+            "id": 3,
+            "name": "good",
+            "japanese": "ryou"
+        },
+        {
+            "id": 4,
+            "name": "unlabeled",
+            "japanese": "muzirushi"
+        },
+        {
+            "id": 5,
+            "name": "non_standard",
+            "japanese": "kikakugai"
+        },
+        {
+            "id": 6, 
+            "name": "decay",
+            "japanese": "haiki"
+        }
+    ],
+    "ripe": [
+        {
+            "id": 0,
+            "name": "before"
+        },
+        {
+            "id": 1,
+            "name": "after"
+        }
+    ],
+    "$comment": [
+        "pear.idは year ripe id",
+        "ex) 202001003"
+    ],
+    "pears": [
+        {
+            "id": 202000001,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "黒斑、すじ状の水汚れ、外傷痕(スレ)、短形果"
+        },
+        {
+            "id": 202000002,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 3,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "薬班、外傷痕(スレ)、スレが小さいが深く目立つかつ薬斑の色が濃い、日焼けを含めた結果無印になっている"
+        },
+        {
+            "id": 202000004,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "外傷痕が濃いため良品、薄ければ青秀、底部にある黒い部分が褐色斑点病なら無印になる。"
+        },
+        {
+            "id": 202000008,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 5,
+            "grading_id": 5,
+            "images": [
+
+            ],
+            "comment": "露被害果のため規格外"
+        },
+        {
+            "id": 202000016,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "スレ多数かつ果点あれ多数のため無印"
+        },
+        {
+            "id": 202000018,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "外傷痕多数かつ黒斑病があるため、無印"
+        },
+        {
+            "id": 202000022,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "外傷痕が深く痛む可能性があるため、無印、進行しない場合は良品(コメント内容から現状は良であるため、ラベルを変えています)"
+        },
+        {
+            "id": 202000024,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "外傷痕が痛む可能性があるが、進行しなければ良品"
+        },
+        {
+            "id": 202000026,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 2,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "果形も少し悪いが、汚れが多く褐色斑点病があるため良"
+        },
+        {
+            "id": 202000030,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "外傷痕、果点あれ、褐色斑点病のため良"
+        },
+        {
+            "id": 202000032,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "黒斑及び外傷痕により良"
+        },
+        {
+            "id": 202000034,
+            "year": "2020",
+            "shape_type_id": 3,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "黒斑病及び外傷痕、サビにより良品"
+        },
+        {
+            "id": 202000035,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "薬班及び外傷痕により良"
+        },
+        {
+            "id": 202000037,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "雑菌による果面荒れ、汚れ多数により、良"
+        },
+        {
+            "id": 202000040,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "薬班が大きく濃く、外傷痕が深いため無印"
+        },
+        {
+            "id": 202000048,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 5,
+            "grading_id": 5,
+            "images": [
+
+            ],
+            "comment": "黒斑病及び外傷痕、汚れ多数のため規格外、加工向けになる"
+        },
+        {
+            "id": 202000053,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "薬班が大きく汚れがあり、短形果のため無印"
+        },
+        {
+            "id": 202000056,
+            "year": "2020",
+            "shape_type_id": 3,
+            "graiding_id_deterioration": 3,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "薬班及び外傷痕、全面に果点荒れが多いため良、外傷痕が進行無印"
+        },
+        {
+            "id": 202000059,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "外傷痕があるが浅いため青秀、傷が薄ければ赤秀、薬班が大きいため無印"
+        },
+        {
+            "id": 202000060,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 5,
+            "grading_id": 5,
+            "images": [
+
+            ],
+            "comment": "外傷痕が進行しそうなため規格外、進行しないなら良品となる"
+        },
+        {
+            "id": 202000062,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 2,
+            "grading_id": 2,
+            "images": [
+
+            ],
+            "comment": "若干外傷痕があるが青秀"
+        },
+        {
+            "id": 202000063,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "黒斑多数、外傷痕が進行しそうなため、甘く見て無印"
+        },
+        {
+            "id": 202000065,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "黒斑病が散らばっていないため良品、黒斑病が目立っていなければ赤秀だと思われる"
+        },
+        {
+            "id": 202000068,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "水汚れ、外傷痕のため良"
+        },
+        {
+            "id": 202000071,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "外傷痕多数のため良"
+        },
+        {
+            "id": 202000080,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 2,
+            "grading_id": 2,
+            "images": [
+
+            ],
+            "comment": "黒斑病があるが、軽微なため青秀、良よりの青秀"
+        },
+        {
+            "id": 202000082,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 2,
+            "grading_id": 2,
+            "images": [
+
+            ],
+            "comment": "外傷痕はあるが、軽微なため青秀、良よりの青秀"
+        },
+        {
+            "id": 202000085,
+            "year": "2020",
+            "shape_type_id": 3,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "薬班が大きく、黒斑病、外傷痕があるため良"
+        },
+        {
+            "id": 202000091,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "外傷痕が深く、薬班が多いため無印"
+        },
+        {
+            "id": 202000096,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "雑菌による果面の汚れ及びサビにより良"
+        },
+        {
+            "id": 202000106,
+            "year": "2020",
+            "shape_type_id": 1,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "外傷痕及び水汚れにより良品"
+        },
+        {
+            "id": 202000110,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 5,
+            "grading_id": 5,
+            "images": [
+
+            ],
+            "comment": "外傷痕及び黒斑病多数のため規格外"
+        },
+        {
+            "id": 202000113,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "外傷痕が多く、薬班もあるため無印"
+        },
+        {
+            "id": 202000120,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "外傷痕が深く長いため無印"
+        },
+        {
+            "id": 202000129,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 6,
+            "grading_id": 6,
+            "images": [
+
+            ],
+            "comment": "腐敗のため廃棄"
+        },
+        {
+            "id": 202000132,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "外傷痕及び黒斑病に加えて、全体的な汚れがあるため、無印"
+        },
+        {
+            "id": 202000140,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "黒斑病及び外傷痕が多数なため良"
+        },
+        {
+            "id": 202000152,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 5,
+            "grading_id": 5,
+            "images": [
+
+            ],
+            "comment": "外傷痕が大きいため規格外"
+        },
+        {
+            "id": 202000164,
+            "year": "2020",
+            "shape_type_id": 3,
+            "graiding_id_deterioration": 4,
+            "grading_id": 5,
+            "images": [
+
+            ],
+            "comment": "リンモン病と思われる黒点があるため規格外、首ふとの程度は軽微"
+        },
+        {
+            "id": 202000183,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "外傷痕や雑菌による果面あれのため無印"
+        },
+        {
+            "id": 202000190,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 2,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "黒斑病、外傷痕はあるが軽微なため青秀、短形であることを考慮して良"
+        },
+        {
+            "id": 202000199,
+            "year": "2020",
+            "shape_type_id": 3,
+            "graiding_id_deterioration": 6,
+            "grading_id": 6,
+            "images": [
+
+            ],
+            "comment": "病斑による症状がある、腐敗するため廃棄になる、首太程度は軽微"
+        },
+        {
+            "id": 202000201,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "黒斑病及び薬班、外傷痕(スレ＆サビ)のため良品、短形の程度は軽微"
+        },
+        {
+            "id": 202000217,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 4,
+            "grading_id": 4,
+            "images": [
+
+            ],
+            "comment": "広範囲な外傷痕及び薬班があるため無印、規格外品に近いレベル"
+        },
+        {
+            "id": 202000221,
+            "year": "2020",
+            "shape_type_id": 3,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "黒斑病及びか外傷痕、褐色斑点病の黒点があるため良品"
+        },
+        {
+            "id": 202000232,
+            "year": "2020",
+            "shape_type_id": 2,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "薬班及び外傷痕のため良"
+        },
+        {
+            "id": 202000242,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 3,
+            "grading_id": 3,
+            "images": [
+
+            ],
+            "comment": "黒斑病及び外傷痕のため良"
+        },
+        {
+            "id": 202000250,
+            "year": "2020",
+            "shape_type_id": 1,
+            "graiding_id_deterioration": 5,
+            "grading_id": 5,
+            "images": [
+
+            ],
+            "comment": "薬班及び水汚れ、スジがあるため規格外"
+        },
+        {
+            "id": 202000265,
+            "year": "2020",
+            "shape_type_id": 0,
+            "graiding_id_deterioration": 5,
+            "grading_id": 5,
+            "images": [
+
+            ],
+            "comment": "外観は問題ないが、褐色斑点病だと腐敗するため規格外"
+        }
+    ]
+}

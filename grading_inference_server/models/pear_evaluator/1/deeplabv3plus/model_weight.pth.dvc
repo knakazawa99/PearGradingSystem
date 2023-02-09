@@ -1,5 +1,0 @@
-outs:
-- md5: d7e2d1ee0e3f38b34ff0a060b993c551
-  size: 501444096
-  isexec: true
-  path: model_weight.pth

@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pear_shape"
+version = "0.1.0"
+description = ""
+authors = ["KensukeNakazawa <infokensuke.n@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+opencv-python = "^4.6.0"
+pyefd = "^1.6.0"
+scikit-learn = "^1.1.2"
+pytest-cov = "^4.0.0"
+pytest-only = "^2.0.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

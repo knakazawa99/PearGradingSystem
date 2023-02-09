@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "pear-imaging"
+version = "0.1.0"
+description = ""
+authors = ["None"]
+readme = "README.md"
+packages = [{include = "pear_imaging"}]
+
+[tool.poetry.dependencies]
+python = "3.6.8"
+numpy = "1.19.5"
+opencv-python = "4.4.0.46"
+PyQt5 = "5.14.2"
+spinnaker-python = {path = "spinnaker_python-1.15.0.63-cp36-cp36m-win_amd64.whl"}
+serial = "^0.0.97"
+pyserial = "^3.5"
+tritonclient = {version = "2.25.0", extras = ["http"]}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
